@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nom": "Produit truc",
+        "prix": 1.1
+    },
+    {
+        "id": 2,
+        "nom": "Produit machin",
+        "prix": 2.2
+    },
+    {
+        "id": 3,
+        "nom": "Produit bidule",
+        "prix": 3.3
+    }
+]
